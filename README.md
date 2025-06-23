@@ -1,5 +1,5 @@
 # wesnothfv
-此处为简单表格，[在此](docs/manual.md)查看详细评论。
+此处为简单表格，[在此](fvminfo.md)查看详细评论。
 # 通用
 | 派系\目标 | Loyalists | Drakes | Rebels | Knalgan Alliance | Northerners | Undead |
 |-------|-----------|--------|--------|-----------------|-------------|--------|
