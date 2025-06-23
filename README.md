@@ -1,6 +1,6 @@
 # wesnothfv
 # 通用
-| 派系 | Loyalists | Drakes | Rebels | Knalgan Alliance | Northerners | Undead |
+| 派系\目标 | Loyalists | Drakes | Rebels | Knalgan Alliance | Northerners | Undead |
 |-------|-----------|--------|--------|-----------------|-------------|--------|
 | Loyalists | 50 |  |  |  |  |  |
 | Drakes | 40，被矛兵克制 | 50 |  |  |  |  |
@@ -10,7 +10,7 @@
 | Undead | 55，骷髅弓和DA1:1打 | 60，DA甚至可以在晨昏打赢 | 40，被树人和精战克制 | 40，被走卒克制 | 50(?kow异议) | 50 |
 
 # ERR!修改
-| 派系 | Loyalists | Drakes | Rebels | Knalgan Alliance | Northerners | Undead |
+| 派系\目标 | Loyalists | Drakes | Rebels | Knalgan Alliance | Northerners | Undead |
 |-------|-----------|--------|--------|-----------------|-------------|--------|
 | Loyalists | 50 |  |  |  |  |  |
 | Drakes | 40，被矛兵克制 | 50 |  |  |  |  |
